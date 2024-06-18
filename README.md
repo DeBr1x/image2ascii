@@ -1,6 +1,3 @@
-![alt text](https://github.com/DeBr1x/image2ascii/blob/main/images/cats-kids-lubimetc.info_.jpg)
-![alt text](https://github.com/DeBr1x/image2ascii/blob/main/images/2024-06-18_11-23-27.png)
-
 # img2ascii
 
 `img2ascii` is a Python script that converts images into ASCII art. The script reads an input image, converts it to grayscale, and maps the brightness of each pixel to a corresponding ASCII character.
@@ -73,3 +70,6 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 ## License
 
 This project is licensed under the MIT License.
+
+![alt text](https://github.com/DeBr1x/image2ascii/blob/main/images/cats-kids-lubimetc.info_.jpg)
+![alt text](https://github.com/DeBr1x/image2ascii/blob/main/images/2024-06-18_11-23-27.png)
