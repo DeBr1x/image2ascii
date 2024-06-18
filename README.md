@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/DeBr1x/image2ascii/blob/main/images/cats-kids-lubimetc.info_.jpg)
 ![alt text](http://url/to/img.png)
 
 # img2ascii
