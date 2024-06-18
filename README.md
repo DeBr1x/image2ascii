@@ -31,27 +31,29 @@
 
 ## Usage
 
-1. Run the script:
+1. Ensure you have a monospace font (e.g., Consolas) available in the directory with the script. The default font path in the script is set to `C:\Users\user\Desktop\AI\img2ascii\consolas.ttf`. If you have a different path or font, update the script accordingly.
+
+2. Run the script:
     ```sh
     python img2ascii.py
     ```
 
-2. Provide the path to the image file when prompted:
+3. Provide the path to the image file when prompted:
     ```sh
     Path: path/to/your/image.jpg
     ```
 
-3. Specify the height of the ASCII art:
+4. Specify the height of the ASCII art:
     ```sh
     Height: 50
     ```
 
-4. Choose whether to save the ASCII art to a text file:
+5. Choose whether to save the ASCII art to a text file:
     ```sh
     Save? (y/n): y
     ```
 
-5. If you chose to save, the ASCII art will be saved to `Output.txt` in your Downloads folder.
+6. If you chose to save, the ASCII art will be saved to `Output.txt` in your Downloads folder.
 
 ## Example
 
