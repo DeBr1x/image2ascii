@@ -1,3 +1,6 @@
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+
 # img2ascii
 
 `img2ascii` is a Python script that converts images into ASCII art. The script reads an input image, converts it to grayscale, and maps the brightness of each pixel to a corresponding ASCII character.
